@@ -2,7 +2,7 @@
 // Use this editor to write, compile and run your Java code online
 import java.util.*;
 
-public class Driver {
+public class EmployeeManagement {
     public static void main(String[] args) {
         Employee []emplist=new Employee[5];
         emplist[0]=new Employee("Kush","Manager","HR",50000);
